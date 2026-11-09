@@ -1,7 +1,7 @@
 {
-  "name": "KIMIS 示範庫存",
-  "short_name": "KIMIS示範",
-  "description": "示範資料，非真實庫存。查詢在手機完成。",
+  "name": "KIMIS 庫存查詢",
+  "short_name": "庫存查詢",
+  "description": "庫存查詢。資料來自 data/inventory.json。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
